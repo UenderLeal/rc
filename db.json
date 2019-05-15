@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "post": [
     {
-      "id": 1,
-      "title": "hello"
+      "idpost": 1,
+      "titulo": "hello",
+      "descricao": "descricao"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "usuario": {
+    "nome": "Uender",
+    "email" "uen@xxx.com"
   }
 }
