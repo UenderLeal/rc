@@ -3,7 +3,7 @@
     {
       "idpost": 1,
       "titulo": "Post 1",
-      "descrcao": "descricao",
+      "descricao": "descricao",
       "nome": "Uender",
       "data": "12/05/2019",
       "idusuario": 1,
@@ -14,7 +14,7 @@
     {
       "idpost": 2,
       "titulo": "Post 2",
-      "descrcao": "descricao",
+      "descricao": "descricao",
       "nome": "Uender",
       "data": "12/05/2019",
       "idusuario": 5,
