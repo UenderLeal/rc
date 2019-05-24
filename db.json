@@ -42,4 +42,30 @@
   "profile": {
     "name": "typicode"
   }
+  "getpost": [
+  {
+    "idpost": 1,
+    "autor": "Uender",
+    "idautor": 1,
+    "titulo": "Post 1",
+    "descricao": "Descrição",
+    "conteudo" : "BlaBlaBla...",
+    "comentario": "Muito bom!",
+    "gostei": 3,
+    "naogostei": 9,
+    "ncomentario": 5
+  },
+  {
+    "idpost": 2,
+    "autor": "Uender",
+    "idautor": 1,
+    "titulo": "Post 2",
+    "descricao": "Descrição",
+    "conteudo" : "BlaBlaBla...",
+    "comentario": "Muito bom!",
+    "gostei": 3,
+    "naogostei": 9,
+    "ncomentario": 5
+  }
+  ]
 }
